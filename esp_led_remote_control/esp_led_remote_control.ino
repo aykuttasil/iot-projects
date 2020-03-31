@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char *ssid = "a2a";
-const char *password = "aaAA1244*";
+const char *ssid = "***";
+const char *password = "***";
 
 int ledPin = 13; // GPIO13 ucu D7 ye karsılık gelir bahsettigimiz gibi
 WiFiServer server(80);
